@@ -1,0 +1,4 @@
+Wake up
+Check if you are hungry
+If yes, eat break fast and go to school
+If not, go straight to school
